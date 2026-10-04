@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" role="img" aria-labelledby="t d">
+  <title id="t">FPV drone platform</title>
+  <desc id="d">Workflow: design, build, bench test, fly, log, iterate</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#1b2a44"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <!-- simple quad top view -->
+  <g transform="translate(640 230)" stroke="#5eead4" stroke-width="10" fill="none" stroke-linecap="round">
+    <line x1="-120" y1="-90" x2="120" y2="90"/>
+    <line x1="120" y1="-90" x2="-120" y2="90"/>
+    <rect x="-38" y="-48" width="76" height="96" rx="16" fill="#0b1220"/>
+    <circle cx="-120" cy="-90" r="52" stroke-width="6" stroke-dasharray="8 10"/>
+    <circle cx="120" cy="-90" r="52" stroke-width="6" stroke-dasharray="8 10"/>
+    <circle cx="-120" cy="90" r="52" stroke-width="6" stroke-dasharray="8 10"/>
+    <circle cx="120" cy="90" r="52" stroke-width="6" stroke-dasharray="8 10"/>
+  </g>
+  <text x="640" y="430" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#f8fafc">FPV Drone Platform</text>
+  <text x="640" y="490" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#94a3b8">Open airframe files · Blackbox flight-test workflow</text>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#5eead4" text-anchor="middle">
+    <text x="640" y="570">DESIGN → BUILD → BENCH TEST → FLY → LOG → ITERATE</text>
+  </g>
+</svg>

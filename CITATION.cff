@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project in research, a build report, or published work, please cite this repository."
+title: "TODO_PROJECT_NAME: FPV Drone Platform"
+type: software
+authors:
+  - family-names: "TODO_FAMILY_NAME"
+    given-names: "TODO_GIVEN_NAME"
+# license: CC-BY-SA-4.0   # TODO: uncomment and set an SPDX identifier once a license is chosen
+repository-code: "https://github.com/mnswba/fpv"
+url: "https://github.com/mnswba/fpv"
+keywords:
+  - fpv
+  - drone
+  - quadcopter
+  - open-hardware
+  - betaflight
+  - blackbox

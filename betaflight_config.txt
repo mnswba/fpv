@@ -1,0 +1,17 @@
+# TODO: Replace this file with your reference Betaflight configuration.
+#
+# How to export it:
+#   1. Connect the flight controller (propellers OFF).
+#   2. Open Betaflight Configurator -> CLI tab.
+#   3. Type:  diff all
+#   4. Copy the full output and paste it here, replacing these comments.
+#
+# Before publishing, remove or review anything personal or hardware-unique
+# (e.g. craft_name, pilot_name, receiver binding/UID values).
+#
+# Record alongside this file (README "Reference hardware configuration"):
+#   - Board name and Betaflight version (shown at the top of diff all)
+#   - Motor, propeller, battery, ESC firmware and protocol
+#
+# Users: treat this as a reference only. Do not paste it onto a different
+# board without auditing resources, motor order, and filter/PID settings.

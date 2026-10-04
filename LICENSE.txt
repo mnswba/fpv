@@ -1,0 +1,17 @@
+TODO: Choose a license for this project.
+
+Until a license is added here, default copyright applies: others may view
+this repository on GitHub, but have no right to copy, modify, manufacture,
+or redistribute its contents.
+
+Common options for open hardware / drone designs:
+  - CC BY-SA 4.0       https://creativecommons.org/licenses/by-sa/4.0/
+  - CC BY-NC-SA 4.0    https://creativecommons.org/licenses/by-nc-sa/4.0/  (non-commercial)
+  - CERN-OHL-S/W/P v2  https://ohwr.org/cern_ohl_s_v2.txt
+  - MIT (for software/scripts)
+
+Replace this file with the full license text, then update:
+  - the License badge and section in README.md
+  - the "license" field in CITATION.cff
+
+Copyright (c) 2026 TODO_TEAM_NAME
